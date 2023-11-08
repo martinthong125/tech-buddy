@@ -3,7 +3,7 @@
 ## My tech buddy and me
 
 ### Meeting 1
-brew
+
 1. Laptop choice (either)
    1. Mac with at least 16gb ram
    1. Windows with at least 16gb ram
