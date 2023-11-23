@@ -26,8 +26,8 @@
    1. Docker
    1. Terraform
 1. Optional software to install
-    1. Docker desktop
-    1. Github desktop
+   1. Docker desktop
+   1. Github desktop
 1. IDE to install - vscode
    1. Open vscode from terminal
    1. Extensions
@@ -52,6 +52,21 @@
 ---
 
 ### Meeting 2
+
+1. Git and Github
+   1. Git - local version control
+   1. Github - remote collaboration platform
+1. Top 10 git commands
+   1. `git status`
+   2. `git log`
+   3. `git add ./`
+   4. `git commit -m "<message>"`
+   5. `git push -f`
+   6. `git pull origin main`
+   7. `git branch -a`
+   8. `git checkout -b <branch_name>`
+   9. `git branch -D <branch_name>`
+   10. `git commit --amend --no-edit`
 
 ---
 
