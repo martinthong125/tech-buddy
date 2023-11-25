@@ -67,6 +67,16 @@
    8. `git checkout -b <branch_name>`
    9. `git branch -D <branch_name>`
    10. `git commit --amend --no-edit`
+1. Collaborate with me instructions
+   1. Clone this repo
+   1. Create a folder with your name Eg. martin
+   1. In the folder, create a file that records at least 3 things you learn from our meetings. Eg. learning.md
+   1. Inside this \*.md file, you will put a title "Meeting 1" and below it a list of 3 things you have learnt.
+   1. Commit the changes.
+   1. Repeat step 4 and 5 for "Meeting 2".
+   1. Now you should have 2 commits.
+   1. Push it to Github and create a pull request.
+   1. You can refer to template.md what your file should look like before you push to Github.
 
 ---
 
