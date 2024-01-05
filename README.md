@@ -82,4 +82,26 @@
 
 ### Meeting 3
 
+1. To share about my day-to-day job responsibilities in my Cloud DevOps roles, like how much time in a day you have to be on standby for support, go for meeting, work on projects etc
+
+---
+
+### Meeting 4
+
+1. Homework for buddies
+   1. To decide on Role: Cloud or DevOps - Cloud programming light vs DevOps programming heavy
+   1. To decide on 1st Cloud: AWS or Azure - AWS popular vs Azure niche
+   1. To decide on Certification Roadmap - 2 certs within a year
+1. COSTLY MISTAKES - DO NOT COMMIT THEM
+   1. DO NOT COMMIT YOUR CREDENTIALS TO GIT.
+   1. DO NOT OPEN PORT 22 TO THE WORLD.
+1. Good to know
+   1. CI / CD tool Eg. Jenkins, Github actions
+   1. Confluence - Documentation
+   1. JIRA - Track issues and tickets
+
+---
+
+### Meeting 5
+
 ---
