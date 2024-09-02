@@ -25,12 +25,13 @@
       1. boto3
    1. Docker
    1. Terraform
+   1. Powershell
 1. Optional software to install
    1. Docker desktop
-   1. Github desktop
+   2. Github desktop
 1. IDE to install - vscode
    1. Open vscode from terminal
-   1. Extensions
+   2. Extensions
       - AWS Toolkit
       - Azure CLI Tools
       - Prettier
@@ -40,13 +41,13 @@
       - YAML
 1. Optional software to install
    1. Docker desktop
-   1. Github desktop
+   2. Github desktop
 1. Which AI tool to use?
    1. Bing Chat
-   1. ChatGPT
+   2. ChatGPT
 1. Document your learning
    1. Create a new gmail account, for everything tech
-   1. Create a github account to showcase your skills
+   2. Create a github account to showcase your skills
       1. [Markdown cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ---
