@@ -25,7 +25,10 @@
       1. boto3
    1. Docker
    1. Terraform
-   1. Powershell
+   1. Optional
+      1. Terragrunt
+      2. Checkov
+      3. Powershell
 1. Optional software to install
    1. Docker desktop
    2. Github desktop
@@ -43,8 +46,9 @@
    1. Docker desktop
    2. Github desktop
 1. Which AI tool to use?
-   1. Bing Chat
-   2. ChatGPT
+   1. Copilot
+   2. Gemini
+   3. ChatGPT
 1. Document your learning
    1. Create a new gmail account, for everything tech
    2. Create a github account to showcase your skills
